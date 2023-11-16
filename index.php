@@ -1,9 +1,7 @@
-<?php
 
-/**
- * 
- */
 
-get_header();
+<div>
 
-get_footer();
+<p class="red">1</p>
+</div>
+
